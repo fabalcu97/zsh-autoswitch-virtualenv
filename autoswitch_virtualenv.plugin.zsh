@@ -343,4 +343,3 @@ function disable_autoswitch_virtualenv() {
 
 
 enable_autoswitch_virtualenv
-check_venv
